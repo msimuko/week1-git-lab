@@ -1,1 +1,1 @@
-echo "Hello, Software Maintenance!" > hello.txt
+echo "Welcome to CSC 4631." >> hello.txt
